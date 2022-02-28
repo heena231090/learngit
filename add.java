@@ -4,7 +4,7 @@ class New
 int a;
 int b,c;
 c=a+b;
-System.out.println("addition is"+c);
+System.out.println(c);
 
 
 }
